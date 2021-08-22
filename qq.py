@@ -1,1 +1,1 @@
-print("Hallo") # Deutsch
+print("nihao") # chn
