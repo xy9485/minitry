@@ -1,1 +1,1 @@
-print("nihao") # chinese
+print("Hallo") # Deutsch
